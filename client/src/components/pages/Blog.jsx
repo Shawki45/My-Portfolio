@@ -22,6 +22,10 @@ export default function Blog() {
           <a href='https://github.com/Shawki45/Taking-Notes.git'>Taking Notes Challenge</a>
           <img src='images/notetaker.png'></img>
           </section>
+          <section>
+            <a href='https://github.com/Shawki45/Text-Editor.git'></a>
+            <img src='images/texteditor.png'></img>
+            </section>
         
 
 
