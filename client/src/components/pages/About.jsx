@@ -8,7 +8,7 @@ export default function About() {
        My hobbies inlcude bowling and go-karting although it has been a few months since i have done that, but i do enjoy them. 
        I am currently employed but i would to add more things that i have done to my resume. 
       </p>
-      <img src='images/me.jpg'></img>
+      <img src='images/me.png'></img>
     </div>
   );
 }
