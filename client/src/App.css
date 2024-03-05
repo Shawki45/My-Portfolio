@@ -1,0 +1,38 @@
+.img1 {
+    display: flex;
+    
+    width: 400px
+}
+
+.img2 {
+    display: flex;
+    width: 400px;
+} 
+
+.img3 {
+    display: flex;
+    width: 400px;
+}
+
+.img4 {
+    display: flex;
+    width: 400px;
+}
+
+.img5 {
+    display: flex;
+    width: 400px;
+}
+
+.img6 {
+    display: flex;
+    width: 400px;
+}
+
+body {
+    background-color:aquamarine
+}
+
+.p1 {
+    justify-content: center;
+}
